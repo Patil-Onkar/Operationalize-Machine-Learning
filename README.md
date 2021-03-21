@@ -4,7 +4,7 @@ This project is a part of udacity nanodegree program. In this project, We used A
 
 ## Architectural Diagram
 
-In this project, We are going to create and publish ML pipeline. We have used bank marketing data as an example ml problem. Following is the step by step architetural diagram.:
+In this project, We are going to create and publish ML pipeline. We have used bank marketing data as an example ml problem. Following is the step by step architetural diagram. [1]:
 ![image](https://user-images.githubusercontent.com/39105103/111894811-f9921e00-8a33-11eb-9251-a4b66b553367.png)
 
 Step 1 Authentication: This step is required to authorize and authenticate users as well as developer of azure ML services.
@@ -136,4 +136,5 @@ Note that the status is ACTIVE. We can also see the endpoints URI
 Youtube link : https://youtu.be/_vbuH5n1BV0
 
 
-
+### References 
+[1]: Google Image Source: https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fazure-machine-learning%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw2FaTBo7wbvA096dVrPfM3h&ust=1616386299193000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCB3c7DwO8CFQAAAAAdAAAAABAO
