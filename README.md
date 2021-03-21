@@ -1,6 +1,3 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
 # Operationalizing Machine Learning
 
 This project is a part of udacity nanodegree program. In this project, We used AutoML and deployed best suitable model.Also, we are going to create and publish ML pipeline. We have used bank marketing data as an example ml problem
@@ -31,7 +28,6 @@ Step 8: Documentation: It is required to understand the model architecture and i
 
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
 **AutoML Experiment**
 1. Upload the dataset to perform ML task
@@ -45,6 +41,9 @@ Step 8: Documentation: It is required to understand the model architecture and i
 3. Best model we got -:
 
 ![image](https://user-images.githubusercontent.com/39105103/111895398-55f73c80-8a38-11eb-9488-88690cebb8eb.png)
+
+
+
 
 **Deploy Model and enable application insight**
 1. Deployed model initial status (Application insight is not enabled)
@@ -73,11 +72,19 @@ Step 8: Documentation: It is required to understand the model architecture and i
 ![image](https://user-images.githubusercontent.com/39105103/111895907-cfdcf500-8a3b-11eb-88ec-a85ab7b3e338.png)
 
 
+
+
+
+
 **Consume Model Endpoint**
 
 1. Deployed model is consumed/used using python script endpoint.py. Screenshot shows its output
 
 ![image](https://user-images.githubusercontent.com/39105103/111895969-41b53e80-8a3c-11eb-9e2f-1cc795ac4620.png)
+
+
+
+
 
 
 
@@ -120,9 +127,13 @@ Note that the status is ACTIVE. We can also see the endpoints URI
 ![image](https://user-images.githubusercontent.com/39105103/111896428-960ded80-8a3f-11eb-8ab9-cac844d6fdbe.png)
 
 
-## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+
+
+
+
+## Screen Recording
+Youtube link : https://youtu.be/_vbuH5n1BV0
+
+
 
