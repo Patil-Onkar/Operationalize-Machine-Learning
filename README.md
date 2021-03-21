@@ -1,6 +1,6 @@
 # Operationalizing Machine Learning
 
-This project is a part of udacity nanodegree program. In this project, We used AutoML and deployed best suitable model.Also, we are going to create and publish ML pipeline. We have used bank marketing data as an example ml problem
+This project is a part of udacity nanodegree program. In this project, We will train and deploy a model on Azure cloud using AutoML feature of cloud. We will deploye it as a service and test its endpoint using python SDK. Further we can use this endpoint to any external API. We also create and publish ML pipeline, which automate the above process. At the end we will consume the pipeline endpoints. We have used bank marketing data as an example ml problem
 
 ## Architectural Diagram
 
@@ -117,6 +117,9 @@ Note that the status is ACTIVE. We can also see the endpoints URI
 
 5. Jupyter notebook logs:
 
+![image](https://user-images.githubusercontent.com/39105103/111903459-6de6b480-8a68-11eb-9920-987f886d3e6e.png)
+
+
 ![image](https://user-images.githubusercontent.com/39105103/111896368-0d8f4d00-8a3f-11eb-803c-c6f9c784ee61.png)
 
 6. Rest Endpoint ML studio screenshot
@@ -133,7 +136,13 @@ Note that the status is ACTIVE. We can also see the endpoints URI
 
 
 ## Screen Recording
-Youtube link : https://youtu.be/_vbuH5n1BV0
+video link : https://drive.google.com/file/d/1KUSRI1ZxpLHKueV57Y79MVyzgNqzM6gs/view?usp=sharing
+
+
+## Future Improvement suggestions:
+There is lot more we can do and add in this project. We can integrate mobile cameras or speech recorders as IOT devices then use a machine learning problem such as object detection or language detection. For this kind of problems we can use/add services such as azure stream analytics and azure function. Creating and publishing pipeline which can incorporate this many services would be great fun. Again shouldn't ignore cost.
+
+If we talk about this particular problem, we can create a webpage and consume pipeline endpoints. As we use this service we are going to generate more data and need to retrain and redeploy the model again. So, we can add a feature to our pipeline which can trigger this retraining and redeployment automatically.
 
 
 ### References 
