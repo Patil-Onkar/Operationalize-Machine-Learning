@@ -53,7 +53,7 @@ The first step is to upload the data, apply machine learning techniques to the d
 **Deploy Model and enable application insight**
 
 
-1. In next step we deploy best model, Here we deployed best model, (i.e Voting Ensemble) using Azure Container Instance ACI. While deploying the instance, we set Authentication as "ON". And for recording the logs, we enabled Application Insight, we can do it while deploying the model or after the deployment. In our case we used *logs.py* python SDK script file to enable the application insight.
+In next step we deploy best model, Here we deployed best model, (i.e Voting Ensemble) using Azure Container Instance ACI. While deploying the instance, we set Authentication as "ON". And for recording the logs, we enabled Application Insight, we can do it while deploying the model or after the deployment. In our case we used *logs.py* python SDK script file to enable the application insight.
 
 The following screenshots illustrate the deployement step.
 
